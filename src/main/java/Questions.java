@@ -18,14 +18,14 @@ public class Questions {
          * 
          * What line number represents the end of the "accelerate" method? 
          */
-        return 7;
+        return 14;
     }
 
     String question3(){
         /* 
          * What datatype is expected to be returned in the "honk" method?
          */
-        return "HONNNK";
+        return "string";
     }
     
 }
